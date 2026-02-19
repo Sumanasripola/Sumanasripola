@@ -2,38 +2,50 @@
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sumanasripola&label=Profile%20Views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanasripola&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanasripola&layout=compact)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Feedback Authenticity Detection & Sentiment Analysis
-Machine learning system for detecting genuine vs false feedback with structured sentiment insights.
-
-### 🔹 JewelVista
-AR/VR-based jewelry platform with 3D visualization and immersive try-on experience.
-
-### 🔹 BrandForge
-AI-powered branding automation platform for startups and businesses.
+- Public Repositories: ![](https://img.shields.io/github/repos/Sumanasripola?style=flat)
+- Followers: ![](https://img.shields.io/github/followers/Sumanasripola?style=flat)
+- Total Stars Earned: ![](https://img.shields.io/github/stars/Sumanasripola?affiliations=OWNER&style=flat)
+- Profile Views: ![](https://komarev.com/ghpvc/?username=Sumanasripola&style=flat)
 
 ---
 
-## 📦 Repository Snapshot
+## Repository Highlights
 
-- Public Repositories: ![](https://img.shields.io/github/repos/Sumanasripola?color=blue)
-- Followers: ![](https://img.shields.io/github/followers/Sumanasripola?label=Followers)
-- Following: ![](https://img.shields.io/github/following/Sumanasripola?label=Following)
-- Stars Received: ![](https://img.shields.io/github/stars/Sumanasripola?affiliations=OWNER&label=Stars)
+**InsightRAG – Personalized Document Intelligence**  
+Retrieval-Augmented Generation system for structured PDF-based question answering and semantic retrieval.
+
+**Feedback Authenticity Detection System**  
+Full-stack ML pipeline for detecting genuine vs false feedback with sentiment classification.
+
+**JewelVista – AR/VR Jewelry Platform**  
+Immersive virtual store with 3D visualization and real-time AR try-on integration.
+
+**BrandForge – AI Branding Automation**  
+AI-powered system for structured brand identity generation and marketing asset automation.
 
 ---
 
-## 🔗 Links
+## Technical Stack
 
-[GitHub Profile](https://github.com/Sumanasripola)
+Languages: Java, Python, C, SQL  
+Web: HTML, CSS, JavaScript, TypeScript  
+Frameworks & Tools: React, Node.js, Flask, Unity, MediaPipe, OpenCV, Git  
+
+---
+
+## Repository & Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumanasripola&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanasripola&layout=compact&hide_border=true" height="160"/>
+</p>
+
+---
+
+## Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumanasripola" />
+</p>
