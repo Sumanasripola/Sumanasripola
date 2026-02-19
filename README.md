@@ -1,51 +1,55 @@
-# Sumanasri Pola
-
----
-
-## GitHub Overview
-
-- Public Repositories: ![](https://img.shields.io/github/repos/Sumanasripola?style=flat)
-- Followers: ![](https://img.shields.io/github/followers/Sumanasripola?style=flat)
-- Total Stars Earned: ![](https://img.shields.io/github/stars/Sumanasripola?affiliations=OWNER&style=flat)
-- Profile Views: ![](https://komarev.com/ghpvc/?username=Sumanasripola&style=flat)
-
----
-
-## Repository Highlights
-
-**InsightRAG – Personalized Document Intelligence**  
-Retrieval-Augmented Generation system for structured PDF-based question answering and semantic retrieval.
-
-**Feedback Authenticity Detection System**  
-Full-stack ML pipeline for detecting genuine vs false feedback with sentiment classification.
-
-**JewelVista – AR/VR Jewelry Platform**  
-Immersive virtual store with 3D visualization and real-time AR try-on integration.
-
-**BrandForge – AI Branding Automation**  
-AI-powered system for structured brand identity generation and marketing asset automation.
-
----
-
-## Technical Stack
-
-Languages: Java, Python, C, SQL  
-Web: HTML, CSS, JavaScript, TypeScript  
-Frameworks & Tools: React, Node.js, Flask, Unity, MediaPipe, OpenCV, Git  
-
----
-
-## Repository & Language Stats
+<h1 align="center">Sumanasri Pola</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumanasripola&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanasripola&layout=compact&hide_border=true" height="160"/>
+  <img src="https://komarev.com/ghpvc/?username=Sumanasripola&label=Profile%20Views&color=grey&style=flat" />
 </p>
 
 ---
 
-## Contribution Summary
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumanasripola" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumanasripola&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanasripola&layout=compact&theme=default&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Feedback Transparency Analyzer
+Machine learning pipeline for feedback authenticity detection with sentiment classification and retraining workflow.
+
+### 💎 JewelVista – Virtual Jewelry Platform
+AR/VR-powered e-commerce platform integrating Unity WebGL, 3D models, and real-time camera-based try-on.
+
+### 🏷 BrandForge – AI Branding Automation
+AI-driven brand identity generation platform including personas, archetypes, and structured marketing outputs.
+
+---
+
+## 🛠 Languages & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,unity,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## 📈 Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumanasripola&theme=default" />
+</p>
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumanasri-pola">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
