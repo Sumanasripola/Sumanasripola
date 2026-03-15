@@ -51,7 +51,7 @@ AI-driven brand identity generation platform including personas, archetypes, and
 ## 🔗 Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/sumanasri-pola">
+  <a href="https://www.linkedin.com/in/sumanasri-pola/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
   </a>
 </p>
