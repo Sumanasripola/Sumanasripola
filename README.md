@@ -19,10 +19,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumanasripola&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Sumanasripola&theme=radical&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanasripola&layout=compact&theme=radical&hide_border=true" width="49%" />
 </div>
 
