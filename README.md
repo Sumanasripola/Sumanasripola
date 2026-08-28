@@ -2,7 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&repeat=false&lines=Hi+there%2C+I'm+Sumanasri+%F0%9F%91%8B" alt="Typing SVG" />
 
-<p><b>ML + Full-Stack Developer</b> — I build AI-powered web platforms across AR/VR, RAG, and sentiment analysis.</p>
+<p>
+🎓 I'm a developer who loves turning ideas into working products — from ML pipelines that detect fake feedback, to AR/VR jewelry try-on experiences, to AI tools that write your brand identity for you.
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Sumanasripola&label=Profile%20Views&color=6C63FF&style=flat-square" />
 
