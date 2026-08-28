@@ -18,8 +18,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumanasripola&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanasripola&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://stats-github-readme.vercel.app/api?username=Sumanasripola&show_icons=true&theme=default&hide_border=true" width="49%" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Sumanasripola&layout=compact&theme=default&hide_border=true" width="49%" />
 </div>
 
 <br/>
@@ -71,14 +71,6 @@ Multimodal document intelligence platform for analyzing multiple PDFs through pe
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumanasripola&theme=radical&no-frame=true&row=1&column=6" />
-</div>
 
 <br/>
 
